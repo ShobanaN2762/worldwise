@@ -15,16 +15,19 @@
 
 ### 1. Clone the repository
 
-```bash
+```
 git clone https://github.com/your-username/worldwise.git
 cd worldwise
+```
 
 ### 2. Install dependencies
 
+```
 - npm install
 - npm install json-server
 - npm run server
 - npm run dev
+```
 
 ## 📦 Available Scripts
 
