@@ -1,6 +1,8 @@
 # 🌍 WorldWise
 
-![Image](https://github.com/user-attachments/assets/6f7812e8-703b-4bdb-bc34-9193496d02fe)(https://worldwise-delta-lilac.vercel.app/)
+![Image](https://github.com/user-attachments/assets/6f7812e8-703b-4bdb-bc34-9193496d02fe)
+
+Live demo: (https://worldwise-delta-lilac.vercel.app/)
 
 **WorldWise** is a single-page web application that helps you track your travels around the world. Add cities you've visited, visualize your journey on a world map, and relive your travel memories—all in one interactive interface.
 
