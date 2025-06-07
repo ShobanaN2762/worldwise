@@ -1,5 +1,7 @@
 # 🌍 WorldWise
 
+![Image](https://github.com/user-attachments/assets/6f7812e8-703b-4bdb-bc34-9193496d02fe)(https://worldwise-delta-lilac.vercel.app/)
+
 **WorldWise** is a single-page web application that helps you track your travels around the world. Add cities you've visited, visualize your journey on a world map, and relive your travel memories—all in one interactive interface.
 
 ## ✨ Features
@@ -13,15 +15,25 @@
 
 ### 1. Clone the repository
 
-### 2. Install dependencides
+### 2. Install dependencies
 
 - npm install
 - npm install json-server
 - npm run server
 - npm run dev
 
-## Tech Stack
+## 📦 Available Scripts
+
+- npm run dev – Start the development server
+- npm run server – Start JSON Server for mock backend
+- npm run build – Build the app for production
+
+## 🛠️ Tech Stack
 
 - Frontend: React, CSS
 - Backend: JSON Server (mock REST API)
 - Map: Leaflet.js for interactive world maps
+
+## 🙌 Acknowledgements
+
+This project is built as part of The Ultimate React Course by Jonas Schmedtmann.
