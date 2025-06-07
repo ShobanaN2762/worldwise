@@ -15,6 +15,10 @@
 
 ### 1. Clone the repository
 
+```bash
+git clone https://github.com/your-username/worldwise.git
+cd worldwise
+
 ### 2. Install dependencies
 
 - npm install
